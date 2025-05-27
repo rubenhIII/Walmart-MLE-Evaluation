@@ -1,0 +1,7 @@
+artifact_location: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/324628873079577477
+creation_time: 1748289868484
+experiment_id: '324628873079577477'
+last_update_time: 1748291586708
+lifecycle_stage: deleted
+name: Machine Failure Prediction - Random Forest
+tags: {}

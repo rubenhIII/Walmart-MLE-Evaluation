@@ -1,0 +1,6 @@
+artifact_location: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/211251733907426905
+creation_time: 1748292295998
+experiment_id: '211251733907426905'
+last_update_time: 1748292295998
+lifecycle_stage: active
+name: Machine_Failure_Prediction_SVM_optim

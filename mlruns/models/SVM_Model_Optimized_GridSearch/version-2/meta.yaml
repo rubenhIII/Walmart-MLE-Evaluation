@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748292476385
+current_stage: None
+description: null
+last_updated_timestamp: 1748292476385
+name: SVM_Model_Optimized_GridSearch
+run_id: 913a63a799624183a10c9e0888c86721
+run_link: null
+source: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/211251733907426905/913a63a799624183a10c9e0888c86721/artifacts/SVM_Model_Optimized_GridSearch
+status: READY
+status_message: null
+storage_location: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/211251733907426905/913a63a799624183a10c9e0888c86721/artifacts/SVM_Model_Optimized_GridSearch
+user_id: null
+version: 2

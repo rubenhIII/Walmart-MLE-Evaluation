@@ -1,0 +1,6 @@
+artifact_location: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/954984331519247769
+creation_time: 1748292037621
+experiment_id: '954984331519247769'
+last_update_time: 1748292037621
+lifecycle_stage: active
+name: Machine_Failure_Prediction_Random_Forest_optim

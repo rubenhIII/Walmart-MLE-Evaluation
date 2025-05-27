@@ -1,0 +1,35 @@
+artifact_path: Random_Forest_Model_Optimized_GridSearch
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 382492
+model_uuid: 773c4d298c6c42c395e2ed5207ee4460
+prompts: null
+run_id: 3c11195fb06d454ca9a9a1ff30a5e785
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "machineID", "required": true}, {"type": "double",
+    "name": "volt", "required": true}, {"type": "double", "name": "rotate", "required":
+    true}, {"type": "double", "name": "pressure", "required": true}, {"type": "double",
+    "name": "vibration", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-26 20:30:18.066304'

@@ -1,4 +1,4 @@
-#!/home/ruben/Documentos/Codigos/Python/Walmart/venv/bin/python
+#!/home/ruben/Documentos/Codigos/Python/Walmart/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys

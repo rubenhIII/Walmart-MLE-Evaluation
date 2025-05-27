@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/954984331519247769/295afc8d9ade47ea9fc862287581b7a8/artifacts
+end_time: 1748292041729
+entry_point_name: ''
+experiment_id: '954984331519247769'
+lifecycle_stage: active
+run_id: 295afc8d9ade47ea9fc862287581b7a8
+run_name: RandomForest_Optimal_GridSearch
+run_uuid: 295afc8d9ade47ea9fc862287581b7a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748292037627
+status: 3
+tags: []
+user_id: ruben
