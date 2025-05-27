@@ -36,7 +36,7 @@ Walmart-MLE-Evaluation
     - model_inference_dag.py
     - requirements.txt
 
-The *Data* folder includes the datasets downloaded from the public Microsoft Azure Predictive Maintenance dataset on Kaggle. It also includes the versioning for the data set obtained after the data processing, and the versions for the splitted data used for training and test. The data version control were carried out with **DVC**.
+The *Data* folder includes the datasets downloaded from the public Microsoft Azure Predictive Maintenance dataset on Kaggle. It also includes the versioning for the data set obtained after the data processing, and the versions for the split data used for training and test. The data version control were carried out with **DVC**.
 
 The *graphs* folder includes the bar chart of the feature importance for the selected Random Forest model.
 
