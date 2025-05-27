@@ -24,17 +24,17 @@ Build an end-to-end ML solution that predicts whether a machine will fail in the
 ## Project structure
 The repository has the following structure:
 Walmart-MLE-Evaluation
-    - Data
-        - test
-        - training
+    - Data\
+        - test\
+        - training\
         (DatasetFiles.csv)
-    - graphs
-    - venv
-    - airflow_env
-    - mlruns
-    - Predictive-Maintenance.ipynb
-    - model_inference_dag.py
-    - requirements.txt
+    - graphs\
+    - venv\
+    - airflow_env\
+    - mlruns\
+    - Predictive-Maintenance.ipynb\
+    - model_inference_dag.py\
+    - requirements.txt\
 
 The *Data* folder includes the datasets downloaded from the public Microsoft Azure Predictive Maintenance dataset on Kaggle. It also includes the versioning for the data set obtained after the data processing, and the versions for the split data used for training and test. The data version control were carried out with **DVC**.
 
@@ -50,9 +50,9 @@ The selected model was packaged into a Docker Image using:
 > mlflow models build-docker -m runs:/295afc8d9ade47ea9fc862287581b7a8/Random_Forest_Model_Optimized_GridSearch -n RF_Optim_Failure_Prediction --enable-mlserver
 It was pushed and with public access at my DockerHub repo:
 > rhiitech/predict_failure_rf:latest
-![My Image](./graphs/docker_repo.png.png.jpg)
+![My Image](./graphs/docker_repo.png)
 The requierements.txt are managed with MLflow but the *requirements.txt* file also contains the requirements for the model selection.
-![My Image](./graphs/model_selected.png.jpg)
+![My Image](./graphs/model_selected.png)
 
 The model_inference_dag DAG file proposed a daily POST request for simulated data taken from the test dataset. It could be replaced for batched real dataset taken from a database or a bucket data lake.
 
