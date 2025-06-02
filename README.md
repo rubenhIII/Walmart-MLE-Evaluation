@@ -27,7 +27,7 @@ Walmart-MLE-Evaluation
     - Data\
         - test\
         - training\
-        (DatasetFiles.csv)
+        (DatasetFiles.csv)\
     - graphs\
     - venv\
     - airflow_env\
