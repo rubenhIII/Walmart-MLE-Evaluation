@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/a59e8ca1cf87462a8a1500df9f75a420/artifacts
+end_time: 1748884029913
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: a59e8ca1cf87462a8a1500df9f75a420
+run_name: efficient-robin-598
+run_uuid: a59e8ca1cf87462a8a1500df9f75a420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748884029359
+status: 4
+tags: []
+user_id: ruben

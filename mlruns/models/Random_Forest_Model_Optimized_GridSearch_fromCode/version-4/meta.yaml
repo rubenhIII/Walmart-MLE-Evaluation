@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748886533994
+current_stage: None
+description: null
+last_updated_timestamp: 1748886533994
+name: Random_Forest_Model_Optimized_GridSearch_fromCode
+run_id: 824ba6afa27e4da68a1437ca2b885f20
+run_link: null
+source: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/824ba6afa27e4da68a1437ca2b885f20/artifacts/Random_Forest_Model_Optimized_GridSearch_fromCode
+status: READY
+status_message: null
+storage_location: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/824ba6afa27e4da68a1437ca2b885f20/artifacts/Random_Forest_Model_Optimized_GridSearch_fromCode
+user_id: null
+version: 4

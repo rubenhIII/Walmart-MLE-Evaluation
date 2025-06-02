@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/e4da3b47177948d09b8187b4266d6f39/artifacts
+end_time: 1748883964348
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: e4da3b47177948d09b8187b4266d6f39
+run_name: nervous-squirrel-549
+run_uuid: e4da3b47177948d09b8187b4266d6f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748883963792
+status: 4
+tags: []
+user_id: ruben

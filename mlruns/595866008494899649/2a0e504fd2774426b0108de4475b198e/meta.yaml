@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/2a0e504fd2774426b0108de4475b198e/artifacts
+end_time: 1748886203835
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: 2a0e504fd2774426b0108de4475b198e
+run_name: suave-fowl-720
+run_uuid: 2a0e504fd2774426b0108de4475b198e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748886203820
+status: 4
+tags: []
+user_id: ruben

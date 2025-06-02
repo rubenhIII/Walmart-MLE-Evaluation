@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/08664dd2a3ea47c394d58af6e1a037af/artifacts
+end_time: 1748895626147
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: 08664dd2a3ea47c394d58af6e1a037af
+run_name: handsome-wasp-780
+run_uuid: 08664dd2a3ea47c394d58af6e1a037af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748895625159
+status: 3
+tags: []
+user_id: ruben

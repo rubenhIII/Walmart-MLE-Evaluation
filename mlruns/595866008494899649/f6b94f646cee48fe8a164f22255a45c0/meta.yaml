@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/f6b94f646cee48fe8a164f22255a45c0/artifacts
+end_time: 1748883844145
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: f6b94f646cee48fe8a164f22255a45c0
+run_name: mercurial-lynx-19
+run_uuid: f6b94f646cee48fe8a164f22255a45c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748883844080
+status: 4
+tags: []
+user_id: ruben

@@ -1,7 +1,9 @@
 global:
-  scrape_interval: 15s
+  scrape_interval: 15s  # Adjust based on your needs
+  evaluation_interval: 15s
 
 scrape_configs:
-  - job_name: 'mlserver'
+  - job_name: 'mlflow-mlserver-metrics'
+    metrics_path: '/metrics'  # Default MLServer endpoint
     static_configs:
-      - targets: ['mlserver:8081']
+      - targets: ['mlserver:8082']  # Replace with your service name/port

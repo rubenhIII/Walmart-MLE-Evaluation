@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/b7bf9925f97440b482f9498ddbb4259f/artifacts
+end_time: 1748883899688
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: b7bf9925f97440b482f9498ddbb4259f
+run_name: silent-pig-498
+run_uuid: b7bf9925f97440b482f9498ddbb4259f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748883899616
+status: 4
+tags: []
+user_id: ruben

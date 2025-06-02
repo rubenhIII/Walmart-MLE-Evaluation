@@ -1,16 +1,10 @@
-version: '3'
+version: '5'
 services:
   mlserver:
-    image: rf_optim_failure_prediction
+    image: random_forest_fromcode
     ports:
-      - "8080:8080"  # Main endpoint
-      - "8081:8081"  # Metrics endpoint
-    environment:
-      - MLSERVER_METRICS_ENABLED=true
-      - MLSERVER_METRICS_ENDPOINT=/metrics
-      - MLSERVER_HTTP_PORT=8080
-      - MLSERVER_METRICS_PORT=8081
-
+      - "8080:8080"  # Main endpoi
+      - "8082:8082"
   prometheus:
     image: prom/prometheus
     ports:

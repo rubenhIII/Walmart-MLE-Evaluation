@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/dfb33c13dad64e8590b238b92a8e2cb8/artifacts
+end_time: 1748894947720
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: dfb33c13dad64e8590b238b92a8e2cb8
+run_name: chill-shad-492
+run_uuid: dfb33c13dad64e8590b238b92a8e2cb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748894947056
+status: 3
+tags: []
+user_id: ruben

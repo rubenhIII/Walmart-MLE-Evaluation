@@ -1,0 +1,32 @@
+artifact_path: Random_Forest_Model_Optimized_GridSearch_fromCode
+flavors:
+  python_function:
+    cloudpickle_version: 3.1.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.loaders.code_model
+    model_code_path: /home/ruben/Documentos/Codigos/Python/Walmart/model.py
+    python_version: 3.11.2
+    streamable: false
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 2814
+model_uuid: e7862e8564d84d1a880dfab475591b27
+prompts: null
+run_id: c89b64bb7e4a4d4aaafd498d695b7f9a
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "machineID", "required": true}, {"type": "double",
+    "name": "volt", "required": true}, {"type": "double", "name": "rotate", "required":
+    true}, {"type": "double", "name": "pressure", "required": true}, {"type": "double",
+    "name": "vibration", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-02 19:29:02.598882'

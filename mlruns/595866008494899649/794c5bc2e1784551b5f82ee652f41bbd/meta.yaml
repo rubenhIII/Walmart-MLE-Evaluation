@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/794c5bc2e1784551b5f82ee652f41bbd/artifacts
+end_time: 1748886098024
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: 794c5bc2e1784551b5f82ee652f41bbd
+run_name: abrasive-crab-112
+run_uuid: 794c5bc2e1784551b5f82ee652f41bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748886090123
+status: 3
+tags: []
+user_id: ruben

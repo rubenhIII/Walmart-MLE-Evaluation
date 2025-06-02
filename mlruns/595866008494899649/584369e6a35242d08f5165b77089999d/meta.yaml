@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/584369e6a35242d08f5165b77089999d/artifacts
+end_time: 1748889136662
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: 584369e6a35242d08f5165b77089999d
+run_name: enthused-sponge-353
+run_uuid: 584369e6a35242d08f5165b77089999d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748889131911
+status: 3
+tags: []
+user_id: ruben
