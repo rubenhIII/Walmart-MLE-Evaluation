@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/84b9efd1548b46da9eaa725e65dcede0/artifacts
+end_time: 1748914954442
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: 84b9efd1548b46da9eaa725e65dcede0
+run_name: bright-panda-56
+run_uuid: 84b9efd1548b46da9eaa725e65dcede0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748914953213
+status: 3
+tags: []
+user_id: ruben

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/347583afc78b41d496710197648c3768/artifacts
+end_time: 1748915135432
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: 347583afc78b41d496710197648c3768
+run_name: silent-sheep-890
+run_uuid: 347583afc78b41d496710197648c3768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748915134340
+status: 3
+tags: []
+user_id: ruben

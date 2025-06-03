@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/a38de2c3bc294d4cb34e011e571822e7/artifacts
+end_time: 1748912573823
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: a38de2c3bc294d4cb34e011e571822e7
+run_name: abundant-quail-919
+run_uuid: a38de2c3bc294d4cb34e011e571822e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748912572708
+status: 3
+tags: []
+user_id: ruben

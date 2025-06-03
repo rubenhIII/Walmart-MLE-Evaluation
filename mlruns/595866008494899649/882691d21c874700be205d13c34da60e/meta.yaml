@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/882691d21c874700be205d13c34da60e/artifacts
+end_time: 1748914170094
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: 882691d21c874700be205d13c34da60e
+run_name: secretive-cat-6
+run_uuid: 882691d21c874700be205d13c34da60e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748914169015
+status: 3
+tags: []
+user_id: ruben

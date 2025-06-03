@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/93c3680b124844678b1ecc6dd43517bd/artifacts
+end_time: 1748915922846
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: 93c3680b124844678b1ecc6dd43517bd
+run_name: respected-deer-52
+run_uuid: 93c3680b124844678b1ecc6dd43517bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748915921772
+status: 3
+tags: []
+user_id: ruben

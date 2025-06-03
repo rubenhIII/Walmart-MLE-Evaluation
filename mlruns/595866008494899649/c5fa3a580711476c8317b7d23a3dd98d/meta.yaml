@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/c5fa3a580711476c8317b7d23a3dd98d/artifacts
+end_time: 1748912524789
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: c5fa3a580711476c8317b7d23a3dd98d
+run_name: shivering-shark-406
+run_uuid: c5fa3a580711476c8317b7d23a3dd98d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748912524777
+status: 4
+tags: []
+user_id: ruben

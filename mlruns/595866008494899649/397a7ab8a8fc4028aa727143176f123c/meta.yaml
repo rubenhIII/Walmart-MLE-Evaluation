@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/595866008494899649/397a7ab8a8fc4028aa727143176f123c/artifacts
+end_time: 1748915170827
+entry_point_name: ''
+experiment_id: '595866008494899649'
+lifecycle_stage: active
+run_id: 397a7ab8a8fc4028aa727143176f123c
+run_name: resilient-ray-964
+run_uuid: 397a7ab8a8fc4028aa727143176f123c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748915169696
+status: 3
+tags: []
+user_id: ruben
