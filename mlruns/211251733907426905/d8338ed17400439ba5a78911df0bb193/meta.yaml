@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/Documentos/Codigos/Python/Walmart/mlruns/211251733907426905/d8338ed17400439ba5a78911df0bb193/artifacts
+end_time: 1749084781168
+entry_point_name: ''
+experiment_id: '211251733907426905'
+lifecycle_stage: active
+run_id: d8338ed17400439ba5a78911df0bb193
+run_name: SVM_Optimal_GridSearch
+run_uuid: d8338ed17400439ba5a78911df0bb193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749084781160
+status: 4
+tags: []
+user_id: ruben

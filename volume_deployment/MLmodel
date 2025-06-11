@@ -1,0 +1,39 @@
+artifact_path: Random_Forest_Model_Optimized_GridSearch_fromCode
+flavors:
+  python_function:
+    artifacts:
+      model_path:
+        path: artifacts/sk_model.pkl
+        uri: models/sk_model.pkl
+      trainig_path:
+        path: artifacts/data_training.pkl
+        uri: models/data_training.pkl
+    cloudpickle_version: 3.1.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.loaders.code_model
+    model_code_path: /home/ruben/Documentos/Codigos/Python/Walmart/model.py
+    python_version: 3.11.2
+    streamable: false
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 441539
+model_uuid: e01033758b0b491bb476de78699d0cb9
+prompts: null
+run_id: 986abbefb7f34f48b8c0a95dac5e7114
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "machineID", "required": true}, {"type": "double",
+    "name": "volt", "required": true}, {"type": "double", "name": "rotate", "required":
+    true}, {"type": "double", "name": "pressure", "required": true}, {"type": "double",
+    "name": "vibration", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-03 01:59:21.770033'

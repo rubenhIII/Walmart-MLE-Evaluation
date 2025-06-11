@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sk-random-forest  # Change to your service name
+  namespace: default         # Replace with your namespace
+spec:
+  replicas: 1                # Number of pod replicas
+  selector:
+    matchLabels:
+      app: random-forest-sk          # Must match pod template labels
+  template:
+    metadata:
+      labels:
+        app: random-forest-sk        # Used by selector and services
+    spec:
+      containers:
+      - name: random-forest-sk   # Container name
+        image: rhiiitech/random_forest_sklearn  # Your ML model image (e.g., KServe predictor)
+        ports:
+        - containerPort: 8080  # Default port for KServe/MLServer
+        - containerPort: 8082
+        resources:
+          requests:
+            cpu: "1"         # Minimum CPU (1 core)
+            memory: "1Gi"    # Minimum RAM (2 GB)
+          limits:
+            cpu: "2"         # Maximum CPU
+            memory: "2Gi"    # Maximum RAM

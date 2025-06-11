@@ -1,17 +1,16 @@
-version: '5'
+version: '1'
 services:
   mlserver:
-    image: random_forest_fromcode
+    image: rhiiitech/random_forest_from_code:v1
     ports:
-      - "8080:8080"  # Main endpoi
-      - "8082:8082"
+      - "5050:8080"  # Main endpoi
+      - "5052:8082"
   prometheus:
     image: prom/prometheus
     ports:
       - "9090:9090"
     volumes:
       - ./prometheus.yml:/etc/prometheus/prometheus.yml
-
   grafana:
     image: grafana/grafana
     ports:
